@@ -200,6 +200,7 @@ No-cost tools that every Amazon seller should know about.
 | [Sonar](http://sonar-tool.com/) | Amazon keyword research |
 | [Nexscope Amazon Skills](https://github.com/nexscope-ai/Amazon-Skills) | AI-powered keyword research & competition analysis |
 | [ImportYeti](https://www.importyeti.com/) | Supplier lookup from customs data |
+| [Packrift Packaging Calculators](https://packrift.github.io/packaging-calculators/) | Free packaging calculators for carton tape yield, stretch film, pallet covers, label rolls, and mailer-vs-box decisions |
 | [Sellerboard (free trial)](https://sellerboard.com/) | Profit analytics dashboard |
 | [SellerMate.ai (free tier)](https://www.sellermate.ai/) | PPC automation |
 
