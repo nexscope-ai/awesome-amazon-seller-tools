@@ -149,6 +149,7 @@ Understand your true profit after all Amazon fees, PPC costs, and COGS.
 - [Nozzle](https://nozzle.ai/) — Amazon analytics focused on ad performance, profitability, and market share.
 - [NovaData](https://www.novadata.io/) — Near real-time profit tracking and advertising analytics.
 - [ManageByStats](https://managebystats.com/) — Comprehensive seller analytics, customer management, and profit tracking.
+- [Ecommerce Profit Tracker PRO](https://limin6661.github.io/ecommerce-profit-tracker/) — Excel & Google Sheets template for tracking true profit per order after platform fees, ads, shipping, COGS, and refunds. One-time $19, no subscription. Works for Etsy, Shopify, Amazon, eBay.
 
 ## Reimbursements & Refunds
 
