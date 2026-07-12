@@ -60,6 +60,7 @@ Full-suite tools covering multiple functions — product research, keyword track
 - [SellerApp](https://www.sellerapp.com/) — Product research, keyword tools, PPC analyzer, listing quality checker, and ads automation.
 - [ZonGuru](https://www.zonguru.com/) — 14+ tools for product research, listing optimization, keyword tracking, and customer engagement. Researcher and Seller plans.
 - [DataDive](https://datadive.tools/) — AI-powered all-in-one suite with product research, keyword analysis, and market tracking. Built by an ex-Amazon employee.
+- [SellerEngine.app](https://sellerengine.app) — EU-hosted all-in-one operations workspace for multi-marketplace Amazon sellers: PPC-waste control, margin-aware repricing, inventory forecasting, VAT/OSS reporting, and listing health in one daily dashboard.
 
 ## Product Research
 
