@@ -149,6 +149,7 @@ Understand your true profit after all Amazon fees, PPC costs, and COGS.
 - [Nozzle](https://nozzle.ai/) — Amazon analytics focused on ad performance, profitability, and market share.
 - [NovaData](https://www.novadata.io/) — Near real-time profit tracking and advertising analytics.
 - [ManageByStats](https://managebystats.com/) — Comprehensive seller analytics, customer management, and profit tracking.
+-  [Sellerview.ai](https://sellerview.ai) — Amazon FBA/FBM profit analytics with SKU-level P&L visibility, tracking TACoS, ACoS, ad spend, fees, and returns in real-time. Includes a free FBA Profit Calculator and an AI co-pilot that surfaces profit leaks and margin drivers.
 
 ## Reimbursements & Refunds
 
