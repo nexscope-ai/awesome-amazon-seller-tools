@@ -175,6 +175,7 @@ Find manufacturers and manage your supply chain.
 - [Jungle Scout Supplier Database](https://www.junglescout.com/features/supplier-database/) — Search global supplier records, see which factories supply top Amazon brands.
 - [ImportYeti](https://www.importyeti.com/) — Free tool to find suppliers of any company using public US customs data.
 - [1688.com](https://www.1688.com/) — Alibaba's domestic (China) marketplace. Lower prices than Alibaba international.
+- [SupplierSignal](https://www.suppliersignal.com/) — Match Amazon products to Alibaba suppliers using visual similarity, supplier-type signals, and profitability filters.
 
 ## Market Intelligence & Monitoring
 
