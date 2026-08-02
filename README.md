@@ -96,6 +96,7 @@ Write better titles, bullets, descriptions, and A+ content.
 - [Listing Dojo by Viral Launch](https://viral-launch.com/) — Split test different listing elements to optimize conversion rate.
 - [ChatGPT / Claude](https://openai.com/) — General-purpose AI for drafting listing copy, bullet points, and A+ content.
 - [Copymonkey](https://copymonkey.ai/) — AI-first Amazon listing optimization. Generates and optimizes listings based on keywords and competitor analysis.
+- [ListingAI](https://lijustin655.github.io/f1-listingai/) — Free AI listing generator for Amazon & TikTok Shop sellers. Creates optimized title, bullets, and description in 30 seconds.
 
 ## PPC & Advertising
 
