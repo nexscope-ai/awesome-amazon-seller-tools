@@ -110,6 +110,7 @@ Manage and optimize Sponsored Products, Sponsored Brands, and DSP campaigns.
 - [Advigator](https://www.advigator.com/) — Simple, automated Amazon PPC management.
 - [SellerMate.ai](https://www.sellermate.ai/) — AI-powered PPC automation and business reports.
 - [BidX](https://www.bidx.io/) — Amazon advertising optimization platform with automated bidding.
+- [AMZ Vault](https://amz-vault.com/) — Sponsored Products, Brands and Display in one cockpit: campaign building, bid and placement optimization, search-term harvesting, negation, dayparting, and rules-based automation with an approval inbox. $99 flat, no percentage of ad spend.
 
 ## Review & Feedback Management
 
@@ -149,6 +150,7 @@ Understand your true profit after all Amazon fees, PPC costs, and COGS.
 - [Nozzle](https://nozzle.ai/) — Amazon analytics focused on ad performance, profitability, and market share.
 - [NovaData](https://www.novadata.io/) — Near real-time profit tracking and advertising analytics.
 - [ManageByStats](https://managebystats.com/) — Comprehensive seller analytics, customer management, and profit tracking.
+- [AMZ Vault](https://amz-vault.com/) — Settlement-accurate P&L straight from Seller Central, with COGS, breakeven and contribution margin per product, per marketplace, per day. Live demo on fictitious data, no signup.
 
 ## Reimbursements & Refunds
 
