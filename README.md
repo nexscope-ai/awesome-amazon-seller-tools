@@ -166,6 +166,7 @@ Professional product images and A+ content design.
 - [Canva](https://www.canva.com/) — Design tool for infographics, A+ content, and storefront images.
 - [Pickfu](https://www.pickfu.com/) — Split-test product images, titles, and designs with real consumer feedback before launching.
 - [ProductScope AI](https://productscope.ai/) — AI-generated product photography and listing optimization.
+- [PixGT](https://pixgt.cn) — AI product photography for e-commerce. Scene images from white-background shots, clothing try-on, model swapping, and accessory try-on. Free credits on signup.
 
 ## Sourcing & Suppliers
 
