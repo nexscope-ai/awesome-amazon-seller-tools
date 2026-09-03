@@ -193,6 +193,7 @@ No-cost tools that every Amazon seller should know about.
 | Tool | Function |
 |------|----------|
 | [Amazon Revenue Calculator](https://sellercentral.amazon.com/hz/fba/profitabilitycalculator/index) | Calculate FBA fees and profitability |
+| [Acalcia](https://acalcia.com) | Free FBA fee & profit calculator, no signup |
 | [CamelCamelCamel](https://camelcamelcamel.com/) | Price history tracking |
 | [Keepa (free tier)](https://keepa.com/) | Price history charts on Amazon pages |
 | [Helium 10 (free tier)](https://www.helium10.com/) | Limited access to Cerebro, Magnet, Black Box |
