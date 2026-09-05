@@ -149,6 +149,7 @@ Understand your true profit after all Amazon fees, PPC costs, and COGS.
 - [Nozzle](https://nozzle.ai/) — Amazon analytics focused on ad performance, profitability, and market share.
 - [NovaData](https://www.novadata.io/) — Near real-time profit tracking and advertising analytics.
 - [ManageByStats](https://managebystats.com/) — Comprehensive seller analytics, customer management, and profit tracking.
+- [SellerBlaze](https://sellerblaze.com/) — Settlement-reconciled profit per SKU with break-even CPC bidding for Sponsored Products; settlement-certified for Amazon India, labelled estimates elsewhere.
 
 ## Reimbursements & Refunds
 
