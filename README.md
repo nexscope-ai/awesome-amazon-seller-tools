@@ -72,6 +72,7 @@ Find profitable products and validate ideas before you invest.
 - [Seller Assistant](https://www.sellerassistant.app/) — Shows product data (ROI, profit, restrictions) directly on Amazon pages. Great for wholesale and arbitrage.
 - [SmartScout](https://smartscout.com/) — Map the entire Amazon marketplace by brand and subcategory. Unique brand-level intelligence.
 - [Turbo Piranha](https://www.turbopiranha.com/) — Bulk product search using UPC/ISBN/EAN/ASIN lists. Built for wholesale and arbitrage models.
+- [FlipWorth](https://flipworth.silentdirectivellc.com/?utm_source=awesome-amazon-seller-tools&utm_medium=resource-directory) — Photo-based resale price research for secondhand sellers: snap an item and get an estimated resale range, a buy or pass verdict, a suggested list price and where to sell it. Free to try in the browser, also on iPhone.
 
 ## Keyword Research
 
