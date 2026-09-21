@@ -101,6 +101,7 @@ Write better titles, bullets, descriptions, and A+ content.
 
 Manage and optimize Sponsored Products, Sponsored Brands, and DSP campaigns.
 
+- [AdsTurbo](https://adsturbo.ai) — AI video ad generator for Amazon and TikTok Shop sellers. Turns a product link or a reference ad into short video ads with AI UGC actors; lip-synced translation into 35+ languages. Freemium.
 - [Helium 10 Adtomic](https://www.helium10.com/tools/adtomic/) — AI-driven PPC automation with bid suggestions, keyword harvesting, and dayparting.
 - [Teikametrics](https://www.teikametrics.com/) — AI-powered PPC optimization using predictive bidding. Supports Amazon + Walmart.
 - [Pacvue](https://www.pacvue.com/) — Enterprise advertising platform for Amazon, Walmart, and Instacart. AI-powered bid optimization.
