@@ -72,6 +72,7 @@ Find profitable products and validate ideas before you invest.
 - [Seller Assistant](https://www.sellerassistant.app/) — Shows product data (ROI, profit, restrictions) directly on Amazon pages. Great for wholesale and arbitrage.
 - [SmartScout](https://smartscout.com/) — Map the entire Amazon marketplace by brand and subcategory. Unique brand-level intelligence.
 - [Turbo Piranha](https://www.turbopiranha.com/) — Bulk product search using UPC/ISBN/EAN/ASIN lists. Built for wholesale and arbitrage models.
+- [Ryndix Amazon category data](https://github.com/Ryndix/ryndix-category-data) — Free CC BY 4.0 dataset of Amazon US category snapshots: units, price bands, review distribution, cost per click, fee load, and pre-advertising unit economics for five categories.
 
 ## Keyword Research
 
