@@ -164,6 +164,7 @@ Professional product images and A+ content design.
 
 - [SellerPic](https://www.sellerpic.ai/) — AI-powered product photography and AI fashion models for e-commerce. Generate professional product images without a photoshoot.
 - [Canva](https://www.canva.com/) — Design tool for infographics, A+ content, and storefront images.
+- [CompressFile.pro Amazon Image Resizer](https://compressfile.pro/reduce-image-size-for-amazon/) — Free browser-based tool that resizes product photos to 2,000 × 2,000 px square JPEGs and compresses them well under Amazon's 10 MB limit, up to 20 at a time. No signup; images stay on your device.
 - [Pickfu](https://www.pickfu.com/) — Split-test product images, titles, and designs with real consumer feedback before launching.
 - [ProductScope AI](https://productscope.ai/) — AI-generated product photography and listing optimization.
 
