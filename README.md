@@ -58,6 +58,7 @@ Full-suite tools covering multiple functions — product research, keyword track
 - [AMZScout](https://amzscout.net/) — Product research, keyword tracker, and Chrome extension for wholesale, arbitrage, and dropshipping analysis. AI Bundle includes all tools.
 - [Perpetua](https://perpetua.io/) — Growth optimization platform combining PPC automation and analytics. Formerly Sellics (merged 2022). Supports Amazon, Walmart, Instacart.
 - [SellerApp](https://www.sellerapp.com/) — Product research, keyword tools, PPC analyzer, listing quality checker, and ads automation.
+- [SellerEngine.app](https://sellerengine.app/) — All-in-one operations workspace for multi-marketplace Amazon sellers. Combines PPC recommendations, sales and profit analytics, inventory planning, pricing analysis, VAT/OSS report exports, and listing health checks.
 - [ZonGuru](https://www.zonguru.com/) — 14+ tools for product research, listing optimization, keyword tracking, and customer engagement. Researcher and Seller plans.
 - [DataDive](https://datadive.tools/) — AI-powered all-in-one suite with product research, keyword analysis, and market tracking. Built by an ex-Amazon employee.
 
