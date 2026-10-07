@@ -44,7 +44,7 @@ The Amazon seller ecosystem is massive — hundreds of tools across dozens of ca
   ```bash
   npx skills add nexscope-ai/Amazon-Skills -g
   ```
-- [Nexscope](https://nexscope.ai) — AI command center for Amazon sellers — insights, operations, and marketing in one agent.
+- [Nexscope](https://nexscope.ai?co-from=github) — Ecommerce marketplace intelligence, online image and video generators, and developer APIs for sellers and ecommerce teams.
 - [ChatGPT / Claude for Amazon](https://openai.com/) — General-purpose AI for listing copy, market research, customer response templates, and data analysis.
 - [Perplexity for Market Research](https://perplexity.ai/) — AI search engine useful for competitive analysis and trend research.
 
@@ -58,9 +58,9 @@ Full-suite tools covering multiple functions — product research, keyword track
 - [AMZScout](https://amzscout.net/) — Product research, keyword tracker, and Chrome extension for wholesale, arbitrage, and dropshipping analysis. AI Bundle includes all tools.
 - [Perpetua](https://perpetua.io/) — Growth optimization platform combining PPC automation and analytics. Formerly Sellics (merged 2022). Supports Amazon, Walmart, Instacart.
 - [SellerApp](https://www.sellerapp.com/) — Product research, keyword tools, PPC analyzer, listing quality checker, and ads automation.
+- [SellerEngine.app](https://sellerengine.app/) — All-in-one operations workspace for multi-marketplace Amazon sellers. Combines PPC recommendations, sales and profit analytics, inventory planning, pricing analysis, VAT/OSS report exports, and listing health checks.
 - [ZonGuru](https://www.zonguru.com/) — 14+ tools for product research, listing optimization, keyword tracking, and customer engagement. Researcher and Seller plans.
 - [DataDive](https://datadive.tools/) — AI-powered all-in-one suite with product research, keyword analysis, and market tracking. Built by an ex-Amazon employee.
-- [SellerEngine.app](https://sellerengine.app) — EU-hosted all-in-one operations workspace for multi-marketplace Amazon sellers: PPC-waste control, margin-aware repricing, inventory forecasting, VAT/OSS reporting, and listing health in one daily dashboard.
 
 ## Product Research
 
