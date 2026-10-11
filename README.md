@@ -69,6 +69,7 @@ Find profitable products and validate ideas before you invest.
 - [Helium 10 Black Box](https://www.helium10.com/tools/black-box/) — Advanced product research with 450M+ ASIN database. Filter by revenue, review count, rating, price, and more.
 - [Keepa](https://keepa.com/) — Amazon price tracking and product research. Historical price charts, sales rank tracking, deal alerts. Essential for understanding product history.
 - [CamelCamelCamel](https://camelcamelcamel.com/) — Free Amazon price tracker and price drop alert service.
+- [SkepticalProof](https://skepticalproof.com) — Evaluate existing Amazon US product ideas before investing in inventory using marketplace evidence, competitive signals, risks, and uncertainty to support explainable Go/No-Go decisions. Free plan available.
 - [Seller Assistant](https://www.sellerassistant.app/) — Shows product data (ROI, profit, restrictions) directly on Amazon pages. Great for wholesale and arbitrage.
 - [SmartScout](https://smartscout.com/) — Map the entire Amazon marketplace by brand and subcategory. Unique brand-level intelligence.
 - [Turbo Piranha](https://www.turbopiranha.com/) — Bulk product search using UPC/ISBN/EAN/ASIN lists. Built for wholesale and arbitrage models.
