@@ -202,6 +202,7 @@ No-cost tools that every Amazon seller should know about.
 | [ImportYeti](https://www.importyeti.com/) | Supplier lookup from customs data |
 | [Sellerboard (free trial)](https://sellerboard.com/) | Profit analytics dashboard |
 | [SellerMate.ai (free tier)](https://www.sellermate.ai/) | PPC automation |
+| [zonfy Free Seller Tools](https://zonfy.app/tools) | Main image compliance checker, A+ Content image sizes, backend search terms byte counter, US/India profit calculator |
 
 ## Communities
 
