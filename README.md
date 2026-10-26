@@ -110,6 +110,7 @@ Manage and optimize Sponsored Products, Sponsored Brands, and DSP campaigns.
 - [Advigator](https://www.advigator.com/) — Simple, automated Amazon PPC management.
 - [SellerMate.ai](https://www.sellermate.ai/) — AI-powered PPC automation and business reports.
 - [BidX](https://www.bidx.io/) — Amazon advertising optimization platform with automated bidding.
+- [Off Hours](https://www.off-hours.app) - Amazon Ads scheduling and automation for Seller Central and Vendor Central accounts in all marketplaces across the North America, Europe and Far East regions. Runs dayparting, budget, event, performance and bid-adjustment rules on schedules and conditions the seller defines, checked every 15 minutes. Flat $149 per month per Amazon Ads account, never a percentage of ad spend. 14-day free trial.
 
 ## Review & Feedback Management
 
