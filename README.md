@@ -164,6 +164,7 @@ Professional product images and A+ content design.
 
 - [SellerPic](https://www.sellerpic.ai/) — AI-powered product photography and AI fashion models for e-commerce. Generate professional product images without a photoshoot.
 - [Canva](https://www.canva.com/) — Design tool for infographics, A+ content, and storefront images.
+- [GreenOnion](https://greenonion.ai/amazon-listing-image-generator) — AI product image workflow that plans up to nine Amazon listing images from one source photo, including infographics, lifestyle, comparison, size, and A+ assets.
 - [Pickfu](https://www.pickfu.com/) — Split-test product images, titles, and designs with real consumer feedback before launching.
 - [ProductScope AI](https://productscope.ai/) — AI-generated product photography and listing optimization.
 
