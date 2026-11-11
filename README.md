@@ -44,7 +44,8 @@ The Amazon seller ecosystem is massive — hundreds of tools across dozens of ca
   ```bash
   npx skills add nexscope-ai/Amazon-Skills -g
   ```
-- [Nexscope](https://nexscope.ai?co-from=github) — Ecommerce marketplace intelligence, online image and video generators, and developer APIs for sellers and ecommerce teams.
+- [Nexscope](https://www.nexscope.ai/?co-from=github) — Ecommerce marketplace intelligence, online image and video generators, and developer APIs for sellers and ecommerce teams.
+  [Explore MCP tools →](https://www.nexscope.ai/mcp?co-from=github&utm_source=github&utm_medium=referral&utm_campaign=github_mcp_launch&utm_content=awesome-amazon-seller-tools_readme_mcp) · [View API docs →](https://www.nexscope.ai/api-docs?co-from=github&utm_source=github&utm_medium=referral&utm_campaign=github_mcp_launch&utm_content=awesome-amazon-seller-tools_readme_api)
 - [ChatGPT / Claude for Amazon](https://openai.com/) — General-purpose AI for listing copy, market research, customer response templates, and data analysis.
 - [Perplexity for Market Research](https://perplexity.ai/) — AI search engine useful for competitive analysis and trend research.
 
