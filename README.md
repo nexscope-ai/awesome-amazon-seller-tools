@@ -163,6 +163,7 @@ Professional product images and A+ content design.
 
 - [SellerPic](https://www.sellerpic.ai/) — AI-powered product photography and AI fashion models for e-commerce. Generate professional product images without a photoshoot.
 - [Canva](https://www.canva.com/) — Design tool for infographics, A+ content, and storefront images.
+- [PicForge](https://picforge-48f.pages.dev/) — Done-for-you listing image service for Amazon, Etsy and Shopify sellers. Sellers upload phone photos and receive a complete listing-ready image set by email for a flat $39 per SKU; works from the seller's real product photos, no product shipping or photoshoot.
 - [Pickfu](https://www.pickfu.com/) — Split-test product images, titles, and designs with real consumer feedback before launching.
 - [UGC Engine](https://ugcengine.ai/) — AI UGC video creation; the former ProductScope domain redirects here.
 
