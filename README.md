@@ -165,6 +165,7 @@ Professional product images and A+ content design.
 - [Canva](https://www.canva.com/) — Design tool for infographics, A+ content, and storefront images.
 - [Pickfu](https://www.pickfu.com/) — Split-test product images, titles, and designs with real consumer feedback before launching.
 - [UGC Engine](https://ugcengine.ai/) — AI UGC video creation; the former ProductScope domain redirects here.
+- [RemakeThat](https://remakethat.com/) — Remake a winning public TikTok or Facebook video into an original faceless UGC-style ad starring your AI avatar; built for affiliate sellers.
 
 ## Sourcing & Suppliers
 
