@@ -75,6 +75,7 @@ Find profitable products and validate ideas before you invest.
 - [Seller Assistant](https://www.sellerassistant.app/) — Shows product data (ROI, profit, restrictions) directly on Amazon pages. Great for wholesale and arbitrage.
 - [SmartScout](https://www.smartscout.com/) — Map the entire Amazon marketplace by brand and subcategory. Unique brand-level intelligence.
 - [Turbo Piranha](https://www.turbopiranha.com/) — Bulk product search using UPC/ISBN/EAN/ASIN lists. Built for wholesale and arbitrage models.
+- [Nolyn](https://www.nolyn.ai/) — Always-on growth team that tracks creators, campaigns and competitors, and researches products and pricing from live marketplace and social data for Amazon, TikTok Shop and Shopee sellers.
 
 ## Keyword Research
 
