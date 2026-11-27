@@ -69,6 +69,7 @@ Full-suite tools covering multiple functions — product research, keyword track
 Find profitable products and validate ideas before you invest.
 
 - [Jungle Scout Opportunity Finder](https://www.junglescout.com/features/opportunity-finder/) — Discover high-demand, low-competition niches by filtering categories.
+- [AshuTeacher](https://ashuteacher.vercel.app) - AI-powered learning PWA & Android app (freemium) with an interactive voice blackboard tutor in 24+ languages, exam paper solver, adaptive quizzes, and a Project, Thesis & Research Studio.
 - [Helium 10 Black Box](https://www.helium10.com/tools/product-research/black-box/) — Amazon product database research. Filter by revenue, review count, rating, price, and more.
 - [Keepa](https://keepa.com/) — Amazon price tracking and product research. Historical price charts, sales rank tracking, deal alerts. Essential for understanding product history.
 - [CamelCamelCamel](https://camelcamelcamel.com/) — Free Amazon price tracker and price drop alert service.
